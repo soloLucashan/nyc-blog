@@ -2,6 +2,8 @@
 
 Blog sobre a cidade de Nova York criado como projeto prático do curso
 **Front-End Engineer** da [Codecademy](https://www.codecademy.com).
+Você pode acessar aqui: https://sololucashan.github.io/nyc-blog
+
 
 ## 📋 Sobre o projeto
 
